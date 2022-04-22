@@ -1,0 +1,13 @@
+tau-fs/models/*
+tau-fs/results/*
+tau-fs/npy-tau-fs/*
+!tau-fs/models/.gitkeep
+!tau-fs/results/.gitkeep
+!tau-fs/npy-tau-fs/.gitkeep
+
+rgb-ts/models/*
+rgb-ts/results/*
+rgb-ts/npy-rgb-ts/*
+!rgb-ts/models/.gitkeep
+!rgb-ts/results/.gitkeep
+!rgb-ts/npy-rgb-ts/.gitkeep
